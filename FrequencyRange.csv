@@ -1,0 +1,8 @@
+﻿FrequencyRange,Low,High
+Sub-bass,20,60
+Bass,60,250
+Low midrange,250,500
+Midrange,500,2000
+Upper midrange,2000,4000
+Prescent,4000,6000
+Brilliance,6000,20000
