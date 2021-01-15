@@ -1,1 +1,2 @@
-# Covid-19-Data-Analysis-and-Visualizations
+# Recommendation-Engine-to-match-talent-voice-with-an-actor
+Involves building a neural network deep learning model to extract features from audio files to make recommendations for voice over artists suitable for a particular character to production managers. This involved data analysis, data cleaning and visualizations along with data modelling using python. We also used AWS EC2 and Sage maker for deploying code and storing the data.
